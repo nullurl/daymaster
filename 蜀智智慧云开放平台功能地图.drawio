@@ -1,0 +1,262 @@
+<mxfile host="app.diagrams.net" modified="2024-07-30T06:08:40.345Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Safari/605.1.15" etag="tV4u6saPCnmO5Bb4_q-j" version="24.7.1" type="github">
+  <diagram name="第 1 页" id="U3jCtUL95P2Kupw28lk0">
+    <mxGraphModel dx="1162" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-1" value="蜀智智慧云开放平台功能地图" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="200" y="50" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-2" value="企业运营管理" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="60" y="100" width="580" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-4" value="标准产品能力" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="60" y="140" width="20" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-5" value="智慧云解决方案" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="60" y="290" width="20" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-6" value="第三方服务应用市场" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="60" y="444.5" width="20" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-7" value="智慧蜀道业务能力" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="60" y="600" width="20" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-8" value="集采交易" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="140" width="60" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-9" value="物流交付" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="140" width="60" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-10" value="电商交易" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="140" width="60" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-11" value="数智物流" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="140" width="60" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-12" value="蜀智云仓" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="140" width="60" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-13" value="业财对账" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="140" width="60" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-14" value="供应商协同" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="140" width="60" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-15" value="更多…" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="140" width="60" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-16" value="蜀链通-供应链智慧经营解决方案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="290" width="60" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-17" value="蜀智物流-智慧物流解决方案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="290" width="60" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-18" value="蜀智云仓-智慧仓储解决方案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="290" width="60" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-19" value="智慧园区解决方案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="290" width="60" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-20" value="智慧金融解决方案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="290" width="60" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-21" value="业财一体化解决方案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="290" width="60" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-22" value="-" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="290" width="60" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-23" value="更多…" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="290" width="60" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-24" value="AI场景-招投标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="444.5" width="60" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-25" value="AI场景-物流管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="444.5" width="60" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-26" value="AI场景-仓储园区" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="444.5" width="60" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-27" value="AI场景-电商交易" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="444.5" width="60" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-28" value="AI场景-业务在线" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="444.5" width="60" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-29" value="AI场景-法务风控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="444.5" width="60" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-30" value="AI场景-财务管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="444.5" width="60" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-31" value="更多…" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="444.5" width="60" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-32" value="经管部三系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="600" width="60" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-33" value="合同管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="600" width="60" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-34" value="智能问数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="600" width="60" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-35" value="-" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="600" width="60" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-36" value="-" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="600" width="60" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-37" value="-" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="600" width="60" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-38" value="-" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="600" width="60" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-39" value="更多…" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="600" width="60" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-40" value="蜀智智慧云开放平台满足用户多元业务发展" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="75" y="780" width="550" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-42" value="平台授权模式" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="60" y="840" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-43" value="特点：&lt;div&gt;企业无自有协议产品或产品不足，需要使用蜀智智慧云开放平台的协议产品能力进行展业。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="210" y="840" width="430" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-44" value="融合业务模式" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="60" y="920" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-45" value="特点：&lt;div&gt;支持企业复杂业务模式的落地，通过蜀智智慧云开放平台提供的解决方案能力，满足企业业务多元化发展的要求。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="210" y="920" width="430" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-46" value="应用服务模式" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1000" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-47" value="特点：&lt;div&gt;企业自有协议产品，需要通过蜀智智慧云提供应用服务能力。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1000" width="430" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-48" value="智慧蜀道模式" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1080" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-49" value="特点：&lt;div&gt;整合对蜀道内部提供的服务，通过授权访问的方式提供蜀道内部业务场景解决能力的产品。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1080" width="430" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-50" value="产品" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="245" y="1540" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-51" value="解决方案" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="355" y="1540" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-52" value="应用市场" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="245" y="1620" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-53" value="智慧蜀道" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="355" y="1620" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-54" value="平台协议" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="245" y="1490" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-55" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="1480" as="sourcePoint" />
+            <mxPoint x="310" y="1420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-56" value="A.平台授权用户" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1360" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-57" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.446;entryY=0.143;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399.6" y="1420" as="sourcePoint" />
+            <mxPoint x="399.6" y="1480.0099999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-59" value="服务协议" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="245" y="1700" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-60" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="1930" as="sourcePoint" />
+            <mxPoint x="310" y="1870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-61" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.446;entryY=0.143;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399.6" y="1870" as="sourcePoint" />
+            <mxPoint x="399.6" y="1930.0099999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-62" value="B.融合业务用户" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1941" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-64" value="应用服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1540" width="55" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-65" value="智慧蜀道" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="468" y="1540" width="55" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-68" value="" style="group;rotation=90;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="520" y="1590" width="89.60000000000002" height="60.00999999999976" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-66" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="uEKFcq83Wg69Zo2shFA8-68">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="15" y="-15" as="sourcePoint" />
+            <mxPoint x="75" y="-15" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-67" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.446;entryY=0.143;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="uEKFcq83Wg69Zo2shFA8-68">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="75" y="75" as="sourcePoint" />
+            <mxPoint x="15" y="75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-70" value="产品供给" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="174.2" y="1820" width="82" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-71" value="数字化工具" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="264.2" y="1820" width="82" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-72" value="AI场景应用" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="354.2" y="1820" width="82" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-73" value="平台服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="443.8" y="1820" width="82" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-74" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="349.69" y="1810" as="sourcePoint" />
+            <mxPoint x="349.69" y="1750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-75" value="" style="group;rotation=90;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="90" y="1590" width="89.60000000000002" height="60.00999999999976" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-76" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="uEKFcq83Wg69Zo2shFA8-75">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="15" y="-15" as="sourcePoint" />
+            <mxPoint x="75" y="-15" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-77" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.446;entryY=0.143;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="uEKFcq83Wg69Zo2shFA8-75">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="75" y="75" as="sourcePoint" />
+            <mxPoint x="15" y="75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-78" value="C.第三方服务商" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="35" y="1540" width="55" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-79" value="D.内部集团用户" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="610" y="1540" width="55" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="uEKFcq83Wg69Zo2shFA8-81" value="蜀智智慧云开放平台用户服务模式" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="75" y="1290" width="550" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
